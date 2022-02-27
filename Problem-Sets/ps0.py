@@ -6,7 +6,7 @@ Problem Set 0
 import numpy as np
 
 
-def logNumbers(x, y):
+def computeNumbers(x, y):
     x, y = 2, 3
     print(x ** y)
     print(np.log2(x))
@@ -14,9 +14,8 @@ def logNumbers(x, y):
 
 def main():
     x, y = 2, 3
-    return logNumbers(x, y)
+    return computeNumbers(x, y)
 
 
 if __name__ == '__main__':
     main()
-    
