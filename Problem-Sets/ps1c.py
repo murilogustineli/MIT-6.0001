@@ -65,7 +65,7 @@ def main():
         print(f'Enter the starting salary: {salary}')
 
         if int(savings_perc) == 1:  #
-            print('It is not possible to save for a down payment in 36 months with this salary.')
+            print('It is not possible to pay the down payment in three years.')
         else:
             print(f'Best savings rate: {savings_perc}')
             print(f'Steps in bisection search: {steps}\n')
