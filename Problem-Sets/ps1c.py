@@ -17,19 +17,19 @@ Since hitting this exactly is a challenge, we simply want your savings to be wit
 
 def savings_rate(base_annual_salary):
     # Fixed variables
-    total_cost = 1000000  # $1M total cost of the house
-    semi_annual_raise = 0.07  # 7% raise every 6 months
-    monthly_r = 0.04 / 12  # Monthly interest
-    down_payment = 0.25 * total_cost  # 25% of the total cost
-    monthly_salary = base_annual_salary / 12  # Annual salary divided by 12
-    months = 36  # 36 months to achieve the down payment
-    epsilon = 100  # Within $100 of the required down payment
-    portion_saved = 10000  # 10000 for 100%
+    total_cost = 1000000                        # $1M total cost of the house
+    semi_annual_raise = 0.07                    # 7% raise every 6 months
+    monthly_r = 0.04 / 12                       # Monthly interest
+    down_payment = 0.25 * total_cost            # 25% of the total cost
+    monthly_salary = base_annual_salary / 12    # Annual salary divided by 12
+    months = 36                                 # 36 months to achieve the down payment
+    epsilon = 100                               # Within $100 of the required down payment
+    portion_saved = 10000                       # 10000 for 100%
 
     # Dynamic variables
-    current_savings = 0  # Starting with zero savings
-    low, high = 0, portion_saved  # Binary Search variables
-    steps = 0  # Steps taken during Binary Search
+    current_savings = 0             # Starting with zero savings
+    low, high = 0, portion_saved    # Binary Search variables
+    steps = 0                       # Steps taken during Binary Search
 
     while abs(down_payment - current_savings) > epsilon:
         steps += 1
