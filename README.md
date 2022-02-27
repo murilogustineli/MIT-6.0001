@@ -7,6 +7,6 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - [ps0](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps0.py)
 
 ### Problem Set 1 ([PDF](https://github.com/murilogustineli/MIT-6.0001/blob/main/PDF-Problem-Sets/MIT6_0001F16_ps1.pdf))
-- [ps1a]()
-- [ps1b]()
+- [ps1a](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1a.py)
+- [ps1b](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1b.py)
 - [ps1c](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1c.py)
