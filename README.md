@@ -9,4 +9,4 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 ### Problem Set 1 ([PDF]())
 - [ps1a]()
 - [ps1b]()
-- [ps1c]()
+- [ps1c](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1c.py)
