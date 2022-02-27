@@ -6,7 +6,7 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 ### Problem Set 0 ([PDF]())
 - [ps0]()
 
-### Problem Set 1 ([PDF]())
+### Problem Set 1 ([PDF](https://github.com/murilogustineli/MIT-6.0001/blob/main/PDF-Problem-Sets/MIT6_0001F16_ps1.pdf))
 - [ps1a]()
 - [ps1b]()
 - [ps1c](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1c.py)
