@@ -37,7 +37,6 @@ def savings_rate(base_annual_salary):
         current_savings = 0
         annual_salary = base_annual_salary
         monthly_salary = annual_salary / 12
-        # monthly_deposit = monthly_salary * (portion_saved * initial_high)
 
         for m in range(months):
             current_savings += (monthly_salary * (portion_saved/10000)) + (current_savings * monthly_r)
