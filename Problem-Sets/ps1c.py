@@ -59,14 +59,15 @@ def savings_rate(base_annual_salary):
 
 
 def main():
-    test_cases = [150000, 300000, 10000]
+    test_cases = [150000, 300000, 10000, 100000]
 
-    for salary in test_cases:
-        savings_perc, steps = savings_rate(salary)
-        print(f'Enter the starting salary: {salary}')
+    for salary in range(len(test_cases)):
+        savings_perc, steps = savings_rate(test_cases[salary])
+        print(f'Test Case {salary+1}:')
+        print(f'Enter the starting salary: {test_cases[salary]}')
 
-        if int(savings_perc) == 1:  #
-            print('It is not possible to pay the down payment in three years.')
+        if int(savings_perc) == 1:
+            print('It is not possible to pay the down payment in three years.\n')
         else:
             print(f'Best savings rate: {savings_perc}')
             print(f'Steps in bisection search: {steps}\n')
