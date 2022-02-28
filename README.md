@@ -10,3 +10,7 @@ __Disclaimer:__ The solutions below are only for reference. Please design and im
 - [ps1a](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1a.py)
 - [ps1b](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1b.py)
 - [ps1c](https://github.com/murilogustineli/MIT-6.0001/blob/main/Problem-Sets/ps1c.py)
+
+### Problem Set 2 ([PDF](https://github.com/murilogustineli/MIT-6.0001/blob/main/PDF-Problem-Sets/MIT6_0001F16_Pset2.pdf))
+- ps2
+
