@@ -9,6 +9,10 @@ This repository contains all the problem sets and their solutions for the course
 - [Ch06]
 - [Ch07]
 - [Ch08]
+- Ch09
+- Ch10
+- Ch11
+- Ch12
 
 
 __Disclaimer:__ The solutions below are only for reference. Please design and implement your own algorithms to pass the course.
