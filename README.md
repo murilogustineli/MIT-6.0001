@@ -5,7 +5,7 @@ This repository contains all the problem sets and their solutions for the course
 - [Ch02](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch02.ipynb)
 - [Ch03](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch03.ipynb)
 - [Ch04](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch04.ipynb)
-- [Ch05]
+- [Ch05](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch05.ipynb)
 - [Ch06]
 - [Ch07]
 - [Ch08]
