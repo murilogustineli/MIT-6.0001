@@ -6,6 +6,7 @@ This repository contains all the problem sets and their solutions for the course
 - [Ch03](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch03.ipynb)
 - [Ch04](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch04.ipynb)
 - [Ch05](https://github.com/murilogustineli/MIT-6.0001/blob/main/Chapter-Notebooks/MIT-Ch05.ipynb)
+<!---
 - [Ch06]
 - [Ch07]
 - [Ch08]
@@ -13,6 +14,7 @@ This repository contains all the problem sets and their solutions for the course
 - Ch10
 - Ch11
 - Ch12
+--->
 
 
 __Disclaimer:__ The solutions below are only for reference. Please design and implement your own algorithms to pass the course.
